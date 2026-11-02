@@ -1,2 +1,4 @@
-Guide
-https://www.bilibili.com/video/BV1C4xt6UEJF/?spm_id_from=333.1387.homepage.video_card.click&vd_source=21b66a453c5d0e9b8e3e81ec639b52af
+# Improve your experience for using Julti Multi instances to play Minecraft Random Seed Glitchless&Glitch,currently only for the Minecraft 1.18.2 Java Edition,and mainly used for the corresponding version of Fabric Twilight Forest speedrun(4.1.268).Good luck! Everyday is night!
+
+## Guide
+https://www.bilibili.com/video/BV1C4xt6UEJF/
